@@ -1,4 +1,4 @@
-https://metrics.lecoq.io/ivanbila
+![Metrics](https://metrics.lecoq.io/ivanbila)
 
 <!-- ### Hi there 👋 -->
 
